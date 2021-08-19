@@ -1,3 +1,6 @@
+**Professor Dave Wanik**
+University of Connecticut
+
 # **Module 2.2:** 
 
 ## Simplex Method
@@ -21,7 +24,7 @@ Simplex method is easy to use for polynomial inequalities and has proven to give
 <image src='http://math.uww.edu/~mcfarlat/images/s-prob3.gif'>
  
  
-### Coding Examples:
+ Coding Examples:
  
 <p>
 <a href='https://colab.research.google.com/drive/1FKw4bmpgcQQBwchK_6HT-GveHMnijYGo?usp=sharing/' target="_blank" rel="noopener noreferrer">Simplex Maximisation 2D Problem</a>
@@ -40,7 +43,7 @@ Simplex method is easy to use for polynomial inequalities and has proven to give
  
  </p>
  
-### References:
+References:
  
 <p>
 <a href='https://drive.google.com/file/d/1lj2tuPrf1dG7z4oOwOHiqO0N2wJboQH7/view?usp=sharing/' target="_blank" rel="noopener noreferrer">Simplex Maximisation</a>
@@ -51,10 +54,11 @@ Simplex method is easy to use for polynomial inequalities and has proven to give
  
  </p>
  
-### CheatSheet: 
+CheatSheet: 
 
 <p>
 <a href='https://docs.google.com/presentation/d/12wSnYJxgBQTjCVSjEgp8fdS2E1qN-U95V4Ej35ZPJCU/edit?usp=sharing' target="_blank" rel="noopener noreferrer">CheatSheet</a>
  </p>  
+ 
 Image source: Google Images
  
