@@ -27,24 +27,28 @@ Simplex method is easy to use for polynomial inequalities and has proven to give
 <image src='http://math.uww.edu/~mcfarlat/images/s-prob3.gif'>
  
 ### Coding Examples:
+<p>
+<a href='https://colab.research.google.com/drive/1FKw4bmpgcQQBwchK_6HT-GveHMnijYGo?usp=sharing/'>[Simplex Maximisation 2D Problem]</a>
  
-[Simplex Maximisation 2D Problem]:(https://colab.research.google.com/drive/1FKw4bmpgcQQBwchK_6HT-GveHMnijYGo?usp=sharing/)
+<a href='https://colab.research.google.com/drive/1g9qYdpKHscgSqvZLijNL5xOwTR6yBBEx?usp=sharing/'>[Simplex Minimisation 2D Problem]</a>
  
-[Simplex Minimisation 2D Problem]:(https://colab.research.google.com/drive/1g9qYdpKHscgSqvZLijNL5xOwTR6yBBEx?usp=sharing/) 
+<a href='https://colab.research.google.com/drive/1jVvUQBEk_2fhMpwVVqRv6kiLRWwv2csf?usp=sharing/'>[Simplex Maximisation 3D Problem]</a>
  
-[Simplex Maximisation 3D Problem]:(https://colab.research.google.com/drive/1jVvUQBEk_2fhMpwVVqRv6kiLRWwv2csf?usp=sharing/)
+<a href='https://colab.research.google.com/drive/1Ed0O4G8teXT1NPQ7ySF4Pu3UeHIe3QeZ?usp=sharing/'>[Simplex Minimisation 3D Problem]</a>
  
-[Simplex Minimisation 3D Problem]:(https://colab.research.google.com/drive/1Ed0O4G8teXT1NPQ7ySF4Pu3UeHIe3QeZ?usp=sharing/)
+ </p>
  
 ### References:
+<p>
+<a href='https://drive.google.com/file/d/1lj2tuPrf1dG7z4oOwOHiqO0N2wJboQH7/view?usp=sharing/'>[Simplex Maximisation]</a>
  
-[Simplex Maximisation]:(https://drive.google.com/file/d/1lj2tuPrf1dG7z4oOwOHiqO0N2wJboQH7/view?usp=sharing/)
+<a href='https://drive.google.com/file/d/1WFAVcptD2pbAmrhMmCHw7DtPDUTczBje/view?usp=sharing/'>[Simplex Minimisation]</a>
  
-[Simplex Minimisation]:(https://drive.google.com/file/d/1WFAVcptD2pbAmrhMmCHw7DtPDUTczBje/view?usp=sharing/)
+ </p>
  
 #### CheatSheet: 
 
-[CheatSheet]:(https://docs.google.com/presentation/d/12wSnYJxgBQTjCVSjEgp8fdS2E1qN-U95V4Ej35ZPJCU/edit?usp=sharing/)
+[CheatSheet]<a href='https://docs.google.com/presentation/d/12wSnYJxgBQTjCVSjEgp8fdS2E1qN-U95V4Ej35ZPJCU/edit?usp=sharing/)
   
 Image source:*Google Images*
  
