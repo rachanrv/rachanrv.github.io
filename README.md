@@ -26,7 +26,9 @@ Simplex method is easy to use for polynomial inequalities and has proven to give
  
 <image src='http://math.uww.edu/~mcfarlat/images/s-prob3.gif'>
  
+ 
 ### Coding Examples:
+ 
 <p>
 <a href='https://colab.research.google.com/drive/1FKw4bmpgcQQBwchK_6HT-GveHMnijYGo?usp=sharing/'>[Simplex Maximisation 2D Problem]</a>
  
@@ -39,6 +41,7 @@ Simplex method is easy to use for polynomial inequalities and has proven to give
  </p>
  
 ### References:
+ 
 <p>
 <a href='https://drive.google.com/file/d/1lj2tuPrf1dG7z4oOwOHiqO0N2wJboQH7/view?usp=sharing/'>[Simplex Maximisation]</a>
  
