@@ -56,5 +56,5 @@ Simplex method is easy to use for polynomial inequalities and has proven to give
 <p>
 <a href='https://docs.google.com/presentation/d/12wSnYJxgBQTjCVSjEgp8fdS2E1qN-U95V4Ej35ZPJCU/edit?usp=sharing' target="_blank" rel="noopener noreferrer">CheatSheet</a>
  </p>  
-Image source: *Google Images*
+Image source: Google Images
  
