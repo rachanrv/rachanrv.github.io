@@ -1,5 +1,4 @@
-**Professor Dave Wanik**
-University of Connecticut
+
 
 # **Module 2.2:** 
 
