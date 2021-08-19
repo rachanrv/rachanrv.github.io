@@ -1,6 +1,12 @@
+# OPIM-5641: Business Decision Modeling
+
+ **Professor Dave Wanik** 
+ 
+  University of Connecticut
+
 # **Module 2.1:** 
 
-##Simplex Method
+## Simplex Method
 
 This module focuses on solving maximisation and minimisation problems using Simplex algorithm. 
 For example, 
