@@ -1,9 +1,3 @@
-# OPIM-5641: Business Decision Modeling
-
- **Professor Dave Wanik** 
- 
-  University of Connecticut
-
 # **Module 2.2:** 
 
 ## Simplex Method
