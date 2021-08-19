@@ -1,4 +1,5 @@
-## **Module 2.1: Simplex Method**
+# **Module 2.1:** 
+##Simplex Method
 This module focuses on solving maximisation and minimisation problems using Simplex algorithm. 
 For example, 
 $Ax+By+Cz<=J$
