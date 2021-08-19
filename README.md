@@ -4,17 +4,19 @@
  
   University of Connecticut
 
-# **Module 2.1:** 
+# **Module 2.2:** 
 
 ## Simplex Method
 
 This module focuses on solving maximisation and minimisation problems using Simplex algorithm. 
+
 For example, 
-$Ax+By+Cz<=J$
 
-$Dx+Ey+Fz<=K$
+> $Ax+By+Cz<=J$
 
-Minimise or Maximise $Gx+Hy+Iz$
+> $Dx+Ey+Fz<=K$
+
+> Minimise or Maximise $Gx+Hy+Iz$
 
 Simplex method solves this solution using matrix operations or Gaus Jordon Row Elimination.
 Simplex method is easy to use for polynomial inequalities and has proven to give accurate results
@@ -22,5 +24,26 @@ Simplex method is easy to use for polynomial inequalities and has proven to give
 <image src='https://www.mathstools.com/images/maths/samples/png/iterations.png'>
  
 <image src='http://math.uww.edu/~mcfarlat/images/s-prob3.gif'>
+ 
+### Coding Examples:
+ 
+[Simplex Maximisation 2D Problem](https://colab.research.google.com/drive/1FKw4bmpgcQQBwchK_6HT-GveHMnijYGo?usp=sharing)
+ 
+[Simplex Minimisation 2D Problem](https://colab.research.google.com/drive/1g9qYdpKHscgSqvZLijNL5xOwTR6yBBEx?usp=sharing) 
+ 
+[Simplex Maximisation 3D Problem](https://colab.research.google.com/drive/1jVvUQBEk_2fhMpwVVqRv6kiLRWwv2csf?usp=sharing)
+ 
+[Simplex Minimisation 3D Problem](https://colab.research.google.com/drive/1Ed0O4G8teXT1NPQ7ySF4Pu3UeHIe3QeZ?usp=sharing)
+ 
+### References:
+ 
+[Simplex Maximisation](https://drive.google.com/file/d/1lj2tuPrf1dG7z4oOwOHiqO0N2wJboQH7/view?usp=sharing)
+ 
+[Simplex Minimisation](https://drive.google.com/file/d/1WFAVcptD2pbAmrhMmCHw7DtPDUTczBje/view?usp=sharing)
+ 
+#### CheatSheet: 
+
+[CheatSheet](https://docs.google.com/presentation/d/12wSnYJxgBQTjCVSjEgp8fdS2E1qN-U95V4Ej35ZPJCU/edit?usp=sharing)
   
 Image source:*Google Images*
+ 
